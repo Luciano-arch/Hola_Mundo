@@ -1,4 +1,4 @@
 <?php
 echo"Hola mundo\n";
-echo"I am Pedro Alvarez\n";
+echo"Yo soy pedro Alvarez\n";
 php>
